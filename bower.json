@@ -1,0 +1,28 @@
+{
+  "name": "conFusion",
+  "version": "1.0.0",
+  "description": "webstie for an exotic restaurant",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "restaurant"
+  ],
+  "authors": [
+    "Evill"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
